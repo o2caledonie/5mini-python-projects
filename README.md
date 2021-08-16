@@ -17,12 +17,14 @@ The aim of this project is to practice with the basic concepts of **Python**.
 
 
 
+
 **2. Password generator :**
 
 
 :white_check_mark: Use the **random** module to generate pseudo-random numbers.
 
 :white_check_mark: Use the **random sample()** method and the **join()** method to group characters randomly into one string.
+
 
 
 
@@ -43,6 +45,7 @@ The aim of this project is to practice with the basic concepts of **Python**.
 
 
 
+
 **4. Guess the number :**
 
 
@@ -53,6 +56,7 @@ The aim of this project is to practice with the basic concepts of **Python**.
 :white_check_mark: Conditions **if**, **elif**, **else**.
 
 :white_check_mark: Use the **F-strings** to embed expressions inside string literals.
+
 
 
 
